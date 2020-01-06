@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://shingo-omata.github.io/hugo-test/"
+languageCode = "ja-jp"
+title = "omathin hugo-test"
+author = "omathin"
+canonifyurls = true
+paginate = 3
+theme = "syna"
+publishDir = "docs"
+hasCJKLanguage = true
+
